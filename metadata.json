@@ -1,0 +1,5 @@
+{
+  "name": "Antrian Tiket Suara",
+  "description": "Aplikasi antrian tiket dengan fitur pemanggilan suara menggunakan Gemini TTS.",
+  "requestFramePermissions": []
+}
